@@ -5,7 +5,7 @@ Simulation Study
 1.	misc_funs_v3.R: contains underlying functions for executing simulation study 
 2.	sim_server_set_1.R: simulate data, single iteration estimation, bootstrap estimation, all for scenario 1.
 3.	sim_server_set_2.R: simulate data, single iteration estimation, bootstrap estimation, all for scenario 2.
-4.	sim_server_set_1.R: simulate data, single iteration estimation, bootstrap estimation, all for scenario 2.
+4.	sim_server_set_3.R: simulate data, single iteration estimation, bootstrap estimation, all for scenario 3.
 5.	sim_results_all.R: processes simulation results into table output
 
 Data Analysis
