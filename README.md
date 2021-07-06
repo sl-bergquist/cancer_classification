@@ -1,5 +1,5 @@
 # cancer_classification
-Code accompanying "Uncertainty in Lung Cancer Stage for Outcome Estimation via Set-Valued Classification"
+Code accompanying "Uncertainty in Lung Cancer Stage for Outcome Estimation via Set-Valued Classification," [arXiv:2107.01251](https://arxiv.org/abs/2107.01251)
 
 Simulation Study
 1.	misc_funs_v3.R: contains underlying functions for executing simulation study 
